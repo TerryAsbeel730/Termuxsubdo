@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/TerryAsbeel730/Termuxsubdo```
 
-```bash $ cd ctfr```
+```bash $ cd Termuxsubdo```
 
 ```bash $ pip3 install -r requirements.txt```
 
